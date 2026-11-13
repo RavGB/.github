@@ -29,6 +29,10 @@ Small command-line tools from RavGB. Free to use, with the source in each reposi
 | [storage-full-check](https://github.com/RavGB/storage-full-check) | Finds out what is filling a disk: the largest files, the largest folders and old large files. | Go |
 | [local-issues-check](https://github.com/RavGB/local-issues-check) | Checks your own machine for common issues, such as disk space, memory, load and the clock. | Python today, Go version planned |
 
+## Requests and ideas
+
+Want a check we do not have yet, or found a problem? [Open a request](https://github.com/RavGB/requests/issues/new/choose). We read every one, and the ones we plan to build go on the [RavGB requests board](https://github.com/orgs/RavGB/projects).
+
 ## Contact
 
 - Email: [hello@ravgb.com](mailto:hello@ravgb.com)

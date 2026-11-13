@@ -1,0 +1,36 @@
+name: Suggest an improvement
+description: An idea that would make one of our existing tools more useful.
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Good ideas usually start with a problem, so tell us what you were trying to do. Everything on this page is public.
+  - type: input
+    id: tool
+    attributes:
+      label: Which tool?
+      placeholder: dns-check
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What were you trying to do?
+      description: The situation, and what got in the way.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: What the tool could check, show or do differently.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: An example, if you have one
+      description: A command and the output you would like to see.
+      render: text

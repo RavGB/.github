@@ -1,0 +1,40 @@
+name: Request a new tool
+description: Ask for a free check or tool that RavGB does not have yet.
+title: "[Tool request] "
+labels: ["tool request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We build small, free command-line tools that check one thing well. Tell us about a problem you keep running into. We read every request, and we mark the ones we plan to build on the [RavGB requests board](https://github.com/orgs/RavGB/projects). Everything on this page is public.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem should the tool help with?
+      placeholder: Our team never knows when a domain name is about to expire.
+    validations:
+      required: true
+  - type: textarea
+    id: checks
+    attributes:
+      label: What should it check or report?
+      description: A rough list is fine.
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where would you run it?
+      multiple: true
+      options:
+        - On my own computer
+        - On a server
+        - In CI (for example GitHub Actions)
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: today
+    attributes:
+      label: How do you handle this today?
+      description: Other tools, scripts, or doing it by hand.

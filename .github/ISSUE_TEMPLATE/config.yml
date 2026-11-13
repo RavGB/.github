@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Free website check
+    url: https://ravgb.com/free-website-check/
+    about: Want RavGB to look at your website for you? Ask for the free website check here.
+  - name: Free AWS Cost and Reliability Audit
+    url: https://ravgb.com/managed-devops/
+    about: Small SaaS team on AWS? Book the free, read-only audit.
+  - name: Report a security problem privately
+    url: https://github.com/RavGB/.github/blob/main/SECURITY.md
+    about: Please do not open a public issue for a security problem. Follow these steps instead.
+  - name: Anything else
+    url: https://ravgb.com/contact/
+    about: Questions about websites, video, custom tools or DevOps help. We reply in one or two business days.
