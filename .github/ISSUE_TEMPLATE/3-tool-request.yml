@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        We build small, free command-line tools that check one thing well. Tell us about a problem you keep running into. We read every request, and we mark the ones we plan to build on the [RavGB requests board](https://github.com/orgs/RavGB/projects). Everything on this page is public.
+        We build small, free command-line tools that check one thing well. Tell us about a problem you keep running into. We read every request, and we mark the ones we plan to build on the [RavGB requests board](https://github.com/orgs/RavGB/projects/1). Everything on this page is public.
   - type: textarea
     id: problem
     attributes:

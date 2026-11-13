@@ -31,7 +31,7 @@ Small command-line tools from RavGB. Free to use, with the source in each reposi
 
 ## Requests and ideas
 
-Want a check we do not have yet, or found a problem? [Open a request](https://github.com/RavGB/requests/issues/new/choose). We read every one, and the ones we plan to build go on the [RavGB requests board](https://github.com/orgs/RavGB/projects).
+Want a check we do not have yet, or found a problem? [Open a request](https://github.com/RavGB/requests/issues/new/choose). We read every one, and the ones we plan to build go on the [RavGB requests board](https://github.com/orgs/RavGB/projects/1).
 
 ## Contact
 
