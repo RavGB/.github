@@ -30,6 +30,13 @@ Small command-line tools from RavGB. Free to use, with the source in each reposi
 | [network-slow-check](https://github.com/RavGB/network-slow-check) | Finds out why a network feels slow by timing DNS, connections, first byte and download speed. | Go |
 | [storage-full-check](https://github.com/RavGB/storage-full-check) | Finds out what is filling a disk: the largest files, the largest folders and old large files. | Go |
 | [local-issues-check](https://github.com/RavGB/local-issues-check) | Checks your own machine for common issues, such as disk space, memory, load and the clock. | Go |
+| [duplicate-finder](https://github.com/RavGB/duplicate-finder) | Finds duplicate files and the space their extra copies waste. | Go |
+| [backup-check](https://github.com/RavGB/backup-check) | Verifies a backup really matches the original: missing, outdated, or changed files. | Go |
+| [port-check](https://github.com/RavGB/port-check) | Shows what is listening on a device: open ports and the program behind each one. | Go |
+| [log-check](https://github.com/RavGB/log-check) | Groups the repeated errors in log files, so the real problem stands out. | Go |
+| [aws-bill-check](https://github.com/RavGB/aws-bill-check) | Reads an AWS billing export offline and shows where the money goes, with sudden jumps flagged. | Go |
+| [image-check](https://github.com/RavGB/image-check) | Flags images that are too heavy or too big in pixels for a website. | Go |
+| [tf-check](https://github.com/RavGB/tf-check) | A quick first pass over Terraform files for common safety risks. | Go |
 
 ## Requests and ideas
 
