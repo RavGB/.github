@@ -27,7 +27,7 @@ Small command-line tools from RavGB. Free to use, with the source in each reposi
 | [ssl-check](https://github.com/RavGB/ssl-check) | Checks a site's HTTPS certificate, including who issued it and when it expires. | Go |
 | [network-slow-check](https://github.com/RavGB/network-slow-check) | Finds out why a network feels slow by timing DNS, connections, first byte and download speed. | Go |
 | [storage-full-check](https://github.com/RavGB/storage-full-check) | Finds out what is filling a disk: the largest files, the largest folders and old large files. | Go |
-| [local-issues-check](https://github.com/RavGB/local-issues-check) | Checks your own machine for common issues, such as disk space, memory, load and the clock. | Python today, Go version planned |
+| [local-issues-check](https://github.com/RavGB/local-issues-check) | Checks your own machine for common issues, such as disk space, memory, load and the clock. | Go |
 
 ## Requests and ideas
 
