@@ -25,6 +25,8 @@ Small command-line tools from RavGB. Free to use, with the source in each reposi
 | [site-check](https://github.com/RavGB/site-check) | Checks a website from the outside and prints a short, plain report. | Go |
 | [dns-check](https://github.com/RavGB/dns-check) | Looks up a domain's public DNS and email records and flags common gaps. | Go |
 | [ssl-check](https://github.com/RavGB/ssl-check) | Checks a site's HTTPS certificate, including who issued it and when it expires. | Go |
+| [domain-watch](https://github.com/RavGB/domain-watch) | Checks when a domain expires and warns well before it lapses. | Go |
+| [uptime-watch](https://github.com/RavGB/uptime-watch) | Watches websites and reports downtime, uptime and response time. | Go |
 | [network-slow-check](https://github.com/RavGB/network-slow-check) | Finds out why a network feels slow by timing DNS, connections, first byte and download speed. | Go |
 | [storage-full-check](https://github.com/RavGB/storage-full-check) | Finds out what is filling a disk: the largest files, the largest folders and old large files. | Go |
 | [local-issues-check](https://github.com/RavGB/local-issues-check) | Checks your own machine for common issues, such as disk space, memory, load and the clock. | Go |
